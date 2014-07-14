@@ -8,7 +8,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 - [Awesome Puppet](#awesome-puppet)
     - [Integrated Development Enviroments](#integrated-development-enviroments)
     - [Documentation](#documentation)
-    - [Module Management](#package-management)
+    - [Module Management](#module-management)
     - [Build Tools](#build-tools)
     - [Testing](#testing)
 - [Other Awesome Lists](#other-awesome-lists)
@@ -18,22 +18,34 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 *IDEs and Editors for development*
 
 * [Atom](https://github.com/atom/atom) - The hackable editor by GitHub
+**  [Puppet plugin](https://github.com/atom/language-puppet) - The Puppet plugin for Atom
+* [Gepetto](http://puppetlabs.github.io/geppetto/index.html) - The Puppet IDE developed by PuppetLabs, an eclipse plugin
+* [Sublime](http://www.sublimetext.com/) - Non-FOSS text editor for MacOS X
+** [SublimePuppet](https://github.com/russCloak/SublimePuppet) - Puppet syntax for Sublime
+** [SublimeLinter Puppet](https://github.com/stopdropandrew/SublimeLinter-puppet-lint) - Sublime Linter plugin for Puppet
+* [Textmate](https://github.com/textmate/textmate) - FOSS text editor for MacOS X
+** [Puppet Bundle](https://github.com/cburyta/puppet-textmate.tmbundle) - Textmate bundle for Puppet
 
 ## Documentation
 
 *Libraries for generating project documentation.*
+* [HereDoc](http://puppet-on-the-edge.blogspot.nl/2014/03/heredoc-is-here.html) - HereDoc support for Puppet
 
 ## Module Management
 
 *Libraries for module management.*
+* [Librarian Puppet](http://librarian-puppet.com/) - Flexible module management for your puppet repository
 
 ## Build Tools
 
 *Libraries for building and task running*
+* [Puppet Lint](https://github.com/rodjek/puppet-lint) Check that your Puppet manifest conform to the style guide
 
 ## Testing
 
 *Testing frameworks.*
+* [Rspec Puppet](https://github.com/rodjek/rspec-puppet) RSpec tests for your Puppet Manifests
+* [Beaker](https://github.com/puppetlabs/beaker) Puppet acceptance testing harness
 
 # Other Awesome Lists
 
