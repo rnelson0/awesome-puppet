@@ -11,6 +11,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
     - [Module Management](#module-management)
     - [Build Tools](#build-tools)
     - [Testing](#testing)
+    - [Puppet Tools](#puppet-tools)
 - [Other Awesome Lists](#other-awesome-lists)
 
 ## Integrated Development Enviroments
@@ -53,6 +54,9 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [Kitchen Puppet](https://github.com/neillturner/kitchen-puppet)
 * [Using kitchen with puppet](http://ehaselwanter.com/en/blog/2014/05/08/using-test-kitchen-with-puppet/)
 
+## Puppet Tools
+* [Puppet Bolt](https://github.com/puppetlabs/bolt)  A Ruby command-line tool for executing commands, scripts, and tasks on remote systems using SSH and WinRM. Great for 'ad hoc' task execution. Bolt tasks can be written in any scripting/programming language.
+
 # Other Awesome Lists
 
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
@@ -60,5 +64,3 @@ Other amazingly awesome lists can be found in the [awesome-awesomeness](https://
 # Contributing
 
 Your contributions are always welcome!
-
-
