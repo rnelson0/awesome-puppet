@@ -5,56 +5,59 @@ A curated list of amazingly awesome puppet resources inspired by @bayandin's [aw
 
 Your pull requests are very welcome! Let's make this the awesomest resource for Puppet!
 
-- [Awesome Puppet](#awesome-puppet)
-    - [Integrated Development Enviroments](#integrated-development-enviroments)
-    - [Documentation](#documentation)
-    - [Module Management](#module-management)
-    - [Build Tools](#build-tools)
-    - [Testing](#testing)
-    - [Puppet Tools](#puppet-tools)
-- [Other Awesome Lists](#other-awesome-lists)
+-   [Awesome Puppet](#awesome-puppet)
+    -   [Integrated Development Enviroments](#integrated-development-enviroments)
+    -   [Documentation](#documentation)
+    -   [Module Management](#module-management)
+    -   [Build Tools](#build-tools)
+    -   [Testing](#testing)
+    -   [Puppet Tools](#puppet-tools)
+-   [Other Awesome Lists](#other-awesome-lists)
 
 ## Integrated Development Enviroments
 
 *IDEs and Editors for development*
 
-* [Atom](https://github.com/atom/atom) - The hackable editor by GitHub
-**  [Puppet plugin](https://github.com/atom/language-puppet) - The Puppet plugin for Atom
-* [Gepetto](http://puppetlabs.github.io/geppetto/index.html) - The Puppet IDE developed by PuppetLabs, an eclipse plugin
-* [Sublime](http://www.sublimetext.com/) - Non-FOSS text editor for MacOS X
-** [SublimePuppet](https://github.com/russCloak/SublimePuppet) - Puppet syntax for Sublime
-** [SublimeLinter Puppet](https://github.com/stopdropandrew/SublimeLinter-puppet-lint) - Sublime Linter plugin for Puppet
-* [Textmate](https://github.com/textmate/textmate) - FOSS text editor for MacOS X
-** [Puppet Bundle](https://github.com/cburyta/puppet-textmate.tmbundle) - Textmate bundle for Puppet
-* [RubyMine](https://www.jetbrains.com/ruby/) - Code editor for Windows/Mac/Linux (not free or FOSS)
-** [Puppet language support plugin](https://plugins.jetbrains.com/plugin/7180) - also compatible with other editors
+*   [Atom](https://github.com/atom/atom) - The hackable editor by GitHub
+    *   [Puppet plugin](https://github.com/atom/language-puppet) - The Puppet plugin for Atom
+*   [Gepetto](http://puppetlabs.github.io/geppetto/index.html) - The Puppet IDE developed by PuppetLabs, an eclipse plugin
+*   [Sublime](http://www.sublimetext.com/) - Non-FOSS text editor for MacOS X
+    *   [SublimePuppet](https://github.com/russCloak/SublimePuppet) - Puppet syntax for Sublime
+    *   [SublimeLinter Puppet](https://github.com/stopdropandrew/SublimeLinter-puppet-lint) - Sublime Linter plugin for Puppet
+*   [Textmate](https://github.com/textmate/textmate) - FOSS text editor for MacOS X
+    *   [Puppet Bundle](https://github.com/cburyta/puppet-textmate.tmbundle) - Textmate bundle for Puppet
+*   [RubyMine](https://www.jetbrains.com/ruby/) - Code editor for Windows/Mac/Linux (not free or FOSS)
+    *   [Puppet language support plugin](https://plugins.jetbrains.com/plugin/7180) - also compatible with other editors
 
 ## Documentation
 
 *Libraries for generating project documentation.*
-* [HereDoc](http://puppet-on-the-edge.blogspot.nl/2014/03/heredoc-is-here.html) - HereDoc support for Puppet
+*   [HereDoc](http://puppet-on-the-edge.blogspot.nl/2014/03/heredoc-is-here.html) - HereDoc support for Puppet
+*   [puppet-strings](https://puppet.com/blog/using-puppet-strings-generate-great-documentation-puppet-modules) - Current generation documentation from Puppet
 
 ## Module Management
 
 *Libraries for module management.*
-* [Librarian Puppet](http://librarian-puppet.com/) - Flexible module management for your puppet repository
+*   [Librarian Puppet](http://librarian-puppet.com/) - Flexible module management for your puppet repository
+*   [Puppet Blacksmith](https://github.com/voxpupuli/puppet-blacksmith) - Ruby Gem with several Puppet Module utilities used for easily publishing modules to the forge
 
 ## Build Tools
 
 *Libraries for building and task running*
-* [Puppet Lint](https://github.com/rodjek/puppet-lint) Check that your Puppet manifest conform to the style guide
+*   [Puppet Lint](https://github.com/rodjek/puppet-lint) Check that your Puppet manifest conform to the style guide
 
 ## Testing
 
 *Testing frameworks.*
-* [Rspec Puppet](https://github.com/rodjek/rspec-puppet) RSpec tests for your Puppet Manifests
-* [Beaker](https://github.com/puppetlabs/beaker) Puppet acceptance testing harness
-* [Kitchen](http://kitchen.ci/)
-* [Kitchen Puppet](https://github.com/neillturner/kitchen-puppet)
-* [Using kitchen with puppet](http://ehaselwanter.com/en/blog/2014/05/08/using-test-kitchen-with-puppet/)
+*   [Rspec Puppet](https://github.com/rodjek/rspec-puppet) RSpec tests for your Puppet Manifests
+*   [Beaker](https://github.com/puppetlabs/beaker) Puppet acceptance testing harness
+*   [Kitchen](http://kitchen.ci/)
+*   [Kitchen Puppet](https://github.com/neillturner/kitchen-puppet)
+*   [Using kitchen with puppet](http://ehaselwanter.com/en/blog/2014/05/08/using-test-kitchen-with-puppet/)
 
 ## Puppet Tools
-* [Puppet Bolt](https://github.com/puppetlabs/bolt)  A Ruby command-line tool for executing commands, scripts, and tasks on remote systems using SSH and WinRM. Great for 'ad hoc' task execution. Bolt tasks can be written in any scripting/programming language.
+*   [Puppet Bolt](https://github.com/puppetlabs/bolt)  A Ruby command-line tool for executing commands, scripts, and tasks on remote systems using SSH and WinRM. Great for 'ad hoc' task execution. Bolt tasks can be written in any scripting/programming language (Also known as puppet tasks).
+*   [Puppet Development Kit](https://puppet.com/docs/pdk/1.0/index.html) A toolkit for puppet module developers
 
 # Other Awesome Lists
 
