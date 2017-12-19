@@ -40,6 +40,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 *Libraries for module management.*
 *   [Librarian Puppet](http://librarian-puppet.com/) - Flexible module management for your puppet repository
 *   [Puppet Blacksmith](https://github.com/voxpupuli/puppet-blacksmith) - Ruby Gem with several Puppet Module utilities used for easily publishing modules to the forge
+* [Hiera-Regex](https://github.com/jjulien/hiera-regex/) - Regex backend for Hiera data. 
 
 ## Build Tools
 
