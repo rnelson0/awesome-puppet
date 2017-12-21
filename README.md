@@ -12,6 +12,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
     -   [Build Tools](#build-tools)
     -   [Testing](#testing)
     -   [Puppet Tools](#puppet-tools)
+    -   [Learning Resources](#learning)
 -   [Other Awesome Lists](#other-awesome-lists)
 
 ## Integrated Development Enviroments
@@ -59,6 +60,12 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 ## Puppet Tools
 *   [Puppet Bolt](https://github.com/puppetlabs/bolt)  A Ruby command-line tool for executing commands, scripts, and tasks on remote systems using SSH and WinRM. Great for 'ad hoc' task execution. Bolt tasks can be written in any scripting/programming language (Also known as puppet tasks).
 *   [Puppet Development Kit](https://puppet.com/docs/pdk/1.0/index.html) A toolkit for puppet module developers
+*   [PSICK](https://github.com/example42/psick) A reusable Puppet control repository using many of what are considered best practices.
+
+## Learning
+
+*Resources for new puppet users*
+*   [Puppet Learning VM](https://puppet.com/download-learning-vm) A simple VM that gives you a set of challenges to learn puppet by doing
 
 # Other Awesome Lists
 
