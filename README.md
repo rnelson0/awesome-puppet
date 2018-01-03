@@ -41,7 +41,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 *Libraries for module management.*
 *   [Librarian Puppet](http://librarian-puppet.com/) - Flexible module management for your puppet repository
 *   [Puppet Blacksmith](https://github.com/voxpupuli/puppet-blacksmith) - Ruby Gem with several Puppet Module utilities used for easily publishing modules to the forge
-* [Hiera-Regex](https://github.com/jjulien/hiera-regex/) - Regex backend for Hiera data. 
+* [Hiera-Regex](https://github.com/jjulien/hiera-regex/) - Regex backend for Hiera data.
 
 ## Build Tools
 
@@ -56,6 +56,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 *   [Kitchen](http://kitchen.ci/)
 *   [Kitchen Puppet](https://github.com/neillturner/kitchen-puppet)
 *   [Using kitchen with puppet](http://ehaselwanter.com/en/blog/2014/05/08/using-test-kitchen-with-puppet/)
+*   [Onceover](https://github.com/dylanratcliffe/onceover) Repository testing
 
 ## Puppet Tools
 *   [Puppet Bolt](https://github.com/puppetlabs/bolt)  A Ruby command-line tool for executing commands, scripts, and tasks on remote systems using SSH and WinRM. Great for 'ad hoc' task execution. Bolt tasks can be written in any scripting/programming language (Also known as puppet tasks).
