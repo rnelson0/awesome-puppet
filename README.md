@@ -67,6 +67,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 
 *Resources for new puppet users*
 *   [Puppet Learning VM](https://puppet.com/download-learning-vm) A simple VM that gives you a set of challenges to learn puppet by doing
+*   [Programming Community Curated Resources for learning Puppet](https://hackr.io/tutorials/learn-puppet)
 
 # Other Awesome Lists
 
