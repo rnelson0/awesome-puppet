@@ -25,7 +25,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 - [Textmate](https://github.com/textmate/textmate) - FOSS text editor for MacOS X
   - [Puppet Bundle](https://github.com/cburyta/puppet-textmate.tmbundle) - Textmate bundle for Puppet
 - [RubyMine](https://www.jetbrains.com/ruby/) - Code editor for Windows/Mac/Linux (not free or FOSS)
-  - [Puppet language support plugin](https://plugins.jetbrains.com/plugin/7180) - also compatible with other editors
+  - [Puppet language support plugin](https://plugins.jetbrains.com/plugin/7180-puppet-support) - also compatible with other editors
 
 ## Documentation
 
