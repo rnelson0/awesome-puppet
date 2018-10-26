@@ -19,7 +19,6 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 
 - [Atom](https://github.com/atom/atom) - The hackable editor by GitHub
   - [Puppet plugin](https://github.com/atom/language-puppet) - The Puppet plugin for Atom
-- [Gepetto](http://puppetlabs.github.io/geppetto/index.html) - The Puppet IDE developed by PuppetLabs, an eclipse plugin
 - [Sublime](http://www.sublimetext.com/) - Non-FOSS text editor for MacOS X
   - [SublimePuppet](https://github.com/russCloak/SublimePuppet) - Puppet syntax for Sublime
   - [SublimeLinter Puppet](https://github.com/stopdropandrew/SublimeLinter-puppet-lint) - Sublime Linter plugin for Puppet
