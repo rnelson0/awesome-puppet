@@ -47,6 +47,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 > Libraries for building and task running
 
 - [Puppet Lint](https://github.com/rodjek/puppet-lint) Check that your Puppet manifest conform to the style guide
+- [puppet-lint-action](https://github.com/marketplace/actions/puppet-lint-action) GitHub Action for interacting with Puppet Lint
 
 ## Testing
 
