@@ -26,6 +26,10 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
   - [Puppet Bundle](https://github.com/cburyta/puppet-textmate.tmbundle) - Textmate bundle for Puppet
 - [RubyMine](https://www.jetbrains.com/ruby/) - Code editor for Windows/Mac/Linux (not free or FOSS)
   - [Puppet language support plugin](https://plugins.jetbrains.com/plugin/7180-puppet-support) - also compatible with other editors
+- [VSCode](https://code.visualstudio.com/download)
+  - [Puppet plugin](https://marketplace.visualstudio.com/items?itemName=jpogran.puppet-vscode) - Puppet syntax, code snippets, PDK integration, etc.
+- [Vim](https://www.vim.org/) - the ubiquitous text editor
+  - [vim-puppet](https://github.com/voxpupuli/vim-puppet) - provides syntax highlighting and other plugins
 
 ## Documentation
 
