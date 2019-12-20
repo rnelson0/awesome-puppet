@@ -79,12 +79,34 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 - [puppet-debugger](https://github.com/nwops/puppet-debugger) - A interactive live debugger and REPL for the puppet language
 - [puppet-function-updater](https://github.com/binford2k/puppet-function-updater) - A tool that helps port legacy Puppet functions to the modern Ruby API.
 
+## Control Repositories
+
+> Reference implementations
+
+- [puppetlabs/control-repo](https://github.com/puppetlabs/control-repo) - Official reference architecture from Puppet, based on [Even Besterer Practices](http://garylarizza.com/blog/2015/11/16/workflows-evolved-even-besterer-practices/).
 - [PSICK](https://github.com/example42/psick) A reusable Puppet control repository using many of what are considered best practices.
+- [puppetlabs-education/classroom-control-vf](https://github.com/puppetlabs-education/classroom-control-vf) - A good reference implementation of the control repository, maintained by Puppet's Education group.
+- [puppetinabox/controlrepo](https://github.com/puppetinabox/controlrepo) - Rob Nelson's control repository for his [PuppetInABox project](https://rnelson0.com/2015/01/08/introducing-puppetinabox-bootstrap-a-lab-setup-with-puppet/).
 
 ## Learning
 
 > Resources for new puppet users
-- [Puppet Learning VM](https://puppet.com/download-learning-vm) A simple VM that gives you a set of challenges to learn puppet by doing
+
+- [Puppet Learning VM](https://puppet.com/download-learning-vm) A simple VM that gives you a set of challenges to learn puppet by doing.
+- [Puppet Cookbook](http://www.puppetcookbook.com/), a collection of task oriented solutions in Puppet.
+- [YAML for Puppet users?](http://ask.puppetlabs.com/question/19711/yaml-for-puppet-users/) - A combination YAML primer and Guide to Puppet/YAML idiosyncracies.
+
+## References
+
+> Active code references representing various design patterns and usage
+
+- [puppetlabs/httpd](https://github.com/puppetlabs/puppetlabs-apache/blob/master/.travis.yml) - Beaker tests in Travis.
+- [Resource API](https://github.com/puppetlabs/puppet-resource_api) - Examples of Types & Providers.
+- [puppetlabs/java's java_version](https://github.com/puppetlabs/puppetlabs-java/blob/master/spec/unit/facter/java_version_spec.rb) - Writing a custom fact in ruby.
+- [puppetinabox puppet_role fact](https://github.com/puppetinabox/controlrepo/blob/539b2adb474f9028c59565b40fe340a9a59f57e0/dist/profile/lib/facter/puppet_role.rb) and [test](https://github.com/puppetinabox/controlrepo/blob/539b2adb474f9028c59565b40fe340a9a59f57e0/dist/profile/spec/unit/facter/puppet_role_spec.rb) - Testing of a custom fact.
+- [puppetlabs/apache's defined type apache::vhost](https://github.com/puppetlabs/puppetlabs-apache/blob/5d2e65ed3df9d39fb7d99b5948584035f8b662c3/spec/defines/vhost_spec.rb#L4-L6) - Include a dependency (`apache`) during unit testing of another resource (`apache::vhost`).
+- [puppetlabs/apache](https://github.com/puppetlabs/puppetlabs-apache/blob/5d2e65ed3df9d39fb7d99b5948584035f8b662c3/spec/classes/apache_spec.rb#L152-L184) - Testing an ERB template's resulting content
+
 
 ## Other Awesome Lists
 
