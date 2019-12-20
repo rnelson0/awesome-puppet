@@ -95,6 +95,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 - [Puppet Learning VM](https://puppet.com/download-learning-vm) A simple VM that gives you a set of challenges to learn puppet by doing.
 - [Puppet Cookbook](http://www.puppetcookbook.com/), a collection of task oriented solutions in Puppet.
 - [YAML for Puppet users?](http://ask.puppetlabs.com/question/19711/yaml-for-puppet-users/) - A combination YAML primer and Guide to Puppet/YAML idiosyncracies.
+- [Introduction to Testing Puppet Modules](https://www.netways.de/fileadmin/images/Events_Trainings/Events/OSDC/2016/Slides_2016/David_Schmitt_-_Introduction_to_Testing_Puppet_Modules.pdf) (and [video](https://www.youtube.com/watch?v=GgNrxLfoDF8)) by [David Schmitt](https://twitter.com/dev_el_ops)
 
 ## References
 
