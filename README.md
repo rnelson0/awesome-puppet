@@ -59,6 +59,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 > Testing frameworks
 
 - [Rspec Puppet](https://github.com/rodjek/rspec-puppet) RSpec tests for your Puppet Manifests
+  - [rspec-puppet.com](http://rspec-puppet.com) - Official docs
 - [Beaker](https://github.com/puppetlabs/beaker) Puppet acceptance testing harness
 - [Kitchen](https://kitchen.ci/)
 - [Kitchen Puppet](https://github.com/neillturner/kitchen-puppet)
