@@ -74,6 +74,11 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 
 - [Puppet Bolt](https://github.com/puppetlabs/bolt)  A Ruby command-line tool for executing commands, scripts, and tasks on remote systems using SSH and WinRM. Great for 'ad hoc' task execution. Bolt tasks can be written in any scripting/programming language (Also known as puppet tasks).
 - [Puppet Development Kit](https://puppet.com/docs/pdk/1.x/pdk.html) A toolkit for puppet module developers
+- [puppet-retrospec](https://github.com/nwops/puppet-retrospec) - Generates puppet rspec test code based on the current code inside your module.
+- [puppet-ghostbuster](https://github.com/camptocamp/puppet-ghostbuster) - Finds dead code by displaying unused classes, defined resources, template and files. Requires puppetdb 3+.
+- [puppet-debugger](https://github.com/nwops/puppet-debugger) - A interactive live debugger and REPL for the puppet language
+- [puppet-function-updater](https://github.com/binford2k/puppet-function-updater) - A tool that helps port legacy Puppet functions to the modern Ruby API.
+
 - [PSICK](https://github.com/example42/psick) A reusable Puppet control repository using many of what are considered best practices.
 
 ## Learning
