@@ -46,6 +46,10 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 - [Librarian Puppet](http://librarian-puppet.com/) - Flexible module management for your puppet repository
 - [Puppet Blacksmith](https://github.com/voxpupuli/puppet-blacksmith) - Ruby Gem with several Puppet Module utilities used for easily publishing modules to the forge
 - [Hiera-Regex](https://github.com/jjulien/hiera-regex/) - Regex backend for Hiera data.
+- [Modulesync](https://github.com/voxpupuli/modulesync) - Synchronize consistent settings across modules in a user or organization namespace (not PDK compatible).
+  - [modulesync_config reference](https://github.com/rnelson0/puppet-modulesync_config_reference) - Reference modulesync configuration repo.
+- [pdksync](https://github.com/puppetlabs/pdksync) - Use PDK to synchronize multiple module repositories.
+
 
 ## Build Tools
 
