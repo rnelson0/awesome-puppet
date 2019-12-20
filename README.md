@@ -37,6 +37,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 
 - [HereDoc](http://puppet-on-the-edge.blogspot.com/2014/03/heredoc-is-here.html) - HereDoc support for Puppet
 - [puppet-strings](https://puppet.com/blog/using-puppet-strings-generate-great-documentation-puppet-modules) - Current generation documentation from Puppet
+  - [puppetlabs/ntp](https://github.com/puppetlabs/puppetlabs-ntp) - reference module for Strings support
 
 ## Module Management
 
